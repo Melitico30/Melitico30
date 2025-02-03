@@ -15,11 +15,11 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 Actualmente estoy aprendiendo Desarrollo Web y otros lenguajes de programación.
 
-- 📫 How to reach me **juanibarguen205@gmail.com**
+- 📫 Puedes contactarme en: **juanibarguen205@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Pasatiempos :- El futbol y la musica
 
 <br>
 
